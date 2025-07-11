@@ -1,0 +1,5 @@
+streamlit
+pdfplumber
+transformers
+sentence-transformers
+torch

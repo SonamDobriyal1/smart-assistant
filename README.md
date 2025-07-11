@@ -35,7 +35,7 @@ smart-assistant/
 
 ---
 
-## 💠 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the App
+##  Run the App
 
 ```bash
 streamlit run main.py
@@ -79,7 +79,7 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
-## 💡 Usage Instructions
+## Usage Instructions
 
 1. Upload a `.pdf` or `.txt` document.
 2. Choose a mode:
@@ -90,7 +90,7 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
-## ✅ Tech Stack
+##  Tech Stack
 
 * Python 
 * Streamlit
@@ -100,7 +100,7 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
-## 🛆 Dependencies (`requirements.txt`)
+## Dependencies (`requirements.txt`)
 
 ```txt
 streamlit
